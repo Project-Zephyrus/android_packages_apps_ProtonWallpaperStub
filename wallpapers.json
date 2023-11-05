@@ -66,60 +66,45 @@
             }
         }
     },
-    "Unsplash": {
-        "author": "Unsplash",
-        "featured": "unsplash_water_stars_bAcR26qMPnY",
+    "Zephyrus": {
+        "author": "yoriscape",
+        "featured": "Zephyrus walls",
         "wallpapers": {
-            "Water Stars": {
-                "author": "Vincent Ledvina",
-                "url": "https://unsplash.com/photos/bAcR26qMPnY",
+            "Zephyrus 01": {
+                "author": "Yoriscape",
+                "url": "https://imgur.com/yv8NP4V",
                 "bAcR26qMPnY": ""
             },
-            "Night Mountain": {
-                "author": "Samuel Ferrara",
-                "url": "https://unsplash.com/photos/6dqCCs0vCcU",
+            "Zephyrus 02": {
+                "author": "yoriscape",
+                "url": "https://imgur.com/XxGysmd",
                 "6dqCCs0vCcU": ""
             },
-            "Cloudy Mountain": {
-                "author": "Colin Lloyd",
-                "url": "https://unsplash.com/photos/urabtxT2xPY",
+            "Zephyrus 03": {
+                "author": "yoriscape",
+                "url": "https://imgur.com/lQLXjTk",
                 "urabtxT2xPY": ""
             },
-            "Twilight Mountain": {
-                "author": "Marek Piwnicki",
-                "url": "https://unsplash.com/photos/mt9TrXpGQjo",
+            "Zephyrus 04": {
+                "author": "yoriscape",
+                "url": "https://imgur.com/GJTIE3j",
                 "mt9TrXpGQjo": ""
             },
-            "Jungle Waterfall": {
-                "author": "Ines Álvarez Fdez",
-                "url": "https://unsplash.com/photos/ZfdwcbRyxHk",
+            "Zephyrus 05": {
+                "author": "yoriscape",
+                "url": "https://imgur.com/f9buQqE",
                 "ZfdwcbRyxHk": ""
             },
-            "Aurora Lights": {
-                "author": "Benjamin Suter",
-                "url": "https://unsplash.com/photos/CgoRzWX4CDg",
+            "Zephyrus 06": {
+                "author": "yoriscape",
+                "url": "https://imgur.com/xt2PkMe",
                 "CgoRzWX4CDg": ""
             },
-            "Warm Jellyfish": {
-                "author": "Zetong Li",
-                "url": "https://unsplash.com/photos/NAP14GEjvh8",
+            "Zephyrus 07": {
+                "author": "yoriscape",
+                "url": "https://imgur.com/UVhOGzE",
                 "NAP14GEjvh8": ""
             },
-            "Chinese Lantern": {
-                "author": "Samuel Ferrara",
-                "url": "https://unsplash.com/photos/SEOhJImTmIA",
-                "SEOhJImTmIA": ""
-            },
-            "Pastel Plant": {
-                "author": "Sixteen Miles Out",
-                "url": "https://unsplash.com/photos/BaDjCICkyag",
-                "BaDjCICkyag": ""
-            },
-            "Paint Splash": {
-                "author": "Pawel Czerwinski",
-                "url": "https://unsplash.com/photos/O_KKGafRBMk",
-                "O_KKGafRBMk": ""
-            }
         }
     },
     "Elementary": {
