@@ -18,12 +18,19 @@
     <string name="category_zephyrus">Project Zephyrus</string>
     <string name="author_yoriscape">by Yoriscape</string>
     <string name="wallpaper_zephyrus_1">Faded Black</string>
+    <string name="url_wallpaper_zephyrus_1">https://i.imgur.com/yv8NP4V.png</string>
     <string name="wallpaper_zephyrus_2">Darkish Red</string>
+    <string name="url_wallpaper_zephyrus_2">https://i.imgur.com/XxGysmd.png</string>
     <string name="wallpaper_zephyrus_3">Not so Yellow</string>
+    <string name="url_wallpaper_zephyrus_3">https://i.imgur.com/lQLXjTk.png</string>
     <string name="wallpaper_zephyrus_4">Wannabe Blue</string>
+    <string name="url_wallpaper_zephyrus_4">https://i.imgur.com/GJTIE3j.png</string>
     <string name="wallpaper_zephyrus_5">Sorta Olive</string>
+    <string name="url_wallpaper_zephyrus_5">https://i.imgur.com/f9buQqE.png</string>
     <string name="wallpaper_zephyrus_6">Pitch Black</string>
+    <string name="url_wallpaper_zephyrus_6">https://i.imgur.com/xt2PkMe.png</string>
     <string name="wallpaper_zephyrus_7">Blue Foam</string>
+    <string name="url_wallpaper_zephyrus_7">https://i.imgur.com/UVhOGzE.png</string>
 
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
