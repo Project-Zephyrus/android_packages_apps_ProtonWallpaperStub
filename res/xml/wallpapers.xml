@@ -16,6 +16,52 @@
 -->
 <wallpapers>
 
+    <category id="zephyrus" title="@string/category_zephyrus" featured="zephyrus_wallpapers">
+
+        <static-wallpaper
+            id="zephyrus01"
+            src="@drawable/zeph01"
+            title="@string/wallpaper_zephyrus_1"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus02"
+            src="@drawable/zeph02"
+            title="@string/wallpaper_zephyrus_2"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus03"
+            src="@drawable/zeph03"
+            title="@string/wallpaper_zephyrus_3"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus04"
+            src="@drawable/zeph04"
+            title="@string/wallpaper_zephyrus_4"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus05"
+            src="@drawable/zeph05"
+            title="@string/wallpaper_zephyrus_5"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus06"
+            src="@drawable/zeph06"
+            title="@string/wallpaper_zephyrus_6"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus07"
+            src="@drawable/zeph07"
+            title="@string/wallpaper_zephyrus_7"
+            subtitle1="@string/author_yoriscape" />
+
+    </category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper

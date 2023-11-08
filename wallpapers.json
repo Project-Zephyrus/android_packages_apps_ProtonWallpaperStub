@@ -1,4 +1,45 @@
 {
+    "Zephyrus": {
+        "author": "yoriscape",
+        "featured": "zephyrus_wallpapers",
+        "wallpapers": {
+            "Faded Black": {
+                "author": "Yoriscape",
+                "url": "https://i.imgur.com/yv8NP4V.png",
+                "yv8NP4V": ""
+            },
+            "Darkish Red": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/XxGysmd.png",
+                "XxGysmd": ""
+            },
+            "Not so Yellow": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/lQLXjTk.png",
+                "lQLXjTk": ""
+            },
+            "Wannabe Blue": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/GJTIE3j.png",
+                "GJTIE3j": ""
+            },
+            "Sorta Olive": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/f9buQqE.png",
+                "f9buQqE": ""
+            },
+            "Pitch Black": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/xt2PkMe.png",
+                "xt2PkMe": ""
+            },
+            "Blue Foam": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/UVhOGzE.png",
+                "UVhOGzE": ""
+            },
+        }
+    },
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",
@@ -64,47 +105,6 @@
             "Strange Ocean": {
                 "1": ""
             }
-        }
-    },
-    "Zephyrus": {
-        "author": "yoriscape",
-        "featured": "Zephyrus walls",
-        "wallpapers": {
-            "Zephyrus 01": {
-                "author": "Yoriscape",
-                "url": "https://imgur.com/yv8NP4V",
-                "bAcR26qMPnY": ""
-            },
-            "Zephyrus 02": {
-                "author": "yoriscape",
-                "url": "https://imgur.com/XxGysmd",
-                "6dqCCs0vCcU": ""
-            },
-            "Zephyrus 03": {
-                "author": "yoriscape",
-                "url": "https://imgur.com/lQLXjTk",
-                "urabtxT2xPY": ""
-            },
-            "Zephyrus 04": {
-                "author": "yoriscape",
-                "url": "https://imgur.com/GJTIE3j",
-                "mt9TrXpGQjo": ""
-            },
-            "Zephyrus 05": {
-                "author": "yoriscape",
-                "url": "https://imgur.com/f9buQqE",
-                "ZfdwcbRyxHk": ""
-            },
-            "Zephyrus 06": {
-                "author": "yoriscape",
-                "url": "https://imgur.com/xt2PkMe",
-                "CgoRzWX4CDg": ""
-            },
-            "Zephyrus 07": {
-                "author": "yoriscape",
-                "url": "https://imgur.com/UVhOGzE",
-                "NAP14GEjvh8": ""
-            },
         }
     },
     "Elementary": {
