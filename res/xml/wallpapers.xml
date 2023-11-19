@@ -69,6 +69,40 @@
 
     </category>
 
+    <category id="zephyrus_filled" title="@string/category_zephyrus" featured="zephyrus_wallpapers">
+
+        <static-wallpaper
+            id="zephyrus_filled01"
+            src="@drawable/Zephfilled01"
+            title="@string/wallpaper_zephyrus_filled_1"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus_filled02"
+            src="@drawable/Zephfilled02"
+            title="@string/wallpaper_zephyrus_filled_2"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus_filled03"
+            src="@drawable/Zephfilled03"
+            title="@string/wallpaper_zephyrus_filled_3"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus_filled04"
+            src="@drawable/Zephfilled04"
+            title="@string/wallpaper_zephyrus_filled_4"
+            subtitle1="@string/author_yoriscape" />
+
+        <static-wallpaper
+            id="zephyrus_filled05"
+            src="@drawable/Zephfilled05"
+            title="@string/wallpaper_zephyrus_filled_5"
+            subtitle1="@string/author_yoriscape" />
+
+    </category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper
