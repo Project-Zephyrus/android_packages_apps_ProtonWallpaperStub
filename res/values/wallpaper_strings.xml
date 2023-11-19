@@ -15,18 +15,17 @@
     limitations under the License.
 -->
 <resources>
-    <string name="category_zephyrus">Project Zephyrus Filled</string>
-    <string name="author_yoriscape">by Yoriscape</string>
-    <string name="wallpaper_zephyrus_1">Simple White</string>
-    <string name="url_wallpaper_zephyrus_1">https://i.imgur.com/zxGYbnx.png</string>
-    <string name="wallpaper_zephyrus_2">Simple Black</string>
-    <string name="url_wallpaper_zephyrus_2">https://i.imgur.com/bDTScnT.png</string>
-    <string name="wallpaper_zephyrus_4">Wannabe Pink</string>
-    <string name="url_wallpaper_zephyrus_3">https://i.imgur.com/kXs7XQq.png</string>
-    <string name="wallpaper_zephyrus_5">Why So Green!!!</string>
-    <string name="url_wallpaper_zephyrus_5">https://i.imgur.com/HgZz5dV.png</string>
-    <string name="wallpaper_zephyrus_6">Ocean Blue</string>
-    <string name="url_wallpaper_zephyrus_6">https://i.imgur.com/CmWARyo.png</string>
+    <string name="category_zephyrus_filled">Project Zephyrus Filled</string>
+    <string name="wallpaper_zephyrus_filled_1">Simple White</string>
+    <string name="url_wallpaper_zephyrus_filled_1">https://i.imgur.com/zxGYbnx.png</string>
+    <string name="wallpaper_zephyrus_filled_2">Simple Black</string>
+    <string name="url_wallpaper_zephyrus_filled_2">https://i.imgur.com/bDTScnT.png</string>
+    <string name="wallpaper_zephyrus_filled_3">Wannabe Pink</string>
+    <string name="url_wallpaper_zephyrus_filled_3">https://i.imgur.com/kXs7XQq.png</string>
+    <string name="wallpaper_zephyrus_filled_4">Why So Green!!!</string>
+    <string name="url_wallpaper_zephyrus_filled_4">https://i.imgur.com/HgZz5dV.png</string>
+    <string name="wallpaper_zephyrus_filled_5">Ocean Blue</string>
+    <string name="url_wallpaper_zephyrus_filled_5">https://i.imgur.com/CmWARyo.png</string>
 
     <string name="category_zephyrus">Project Zephyrus</string>
     <string name="author_yoriscape">by Yoriscape</string>

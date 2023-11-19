@@ -40,37 +40,6 @@
             },
         }
     },
-    "Zephyrus_filled": {
-        "author": "yoriscape",
-        "featured": "zephyrus_wallpapers",
-        "wallpapers": {
-            "Simple White": {
-                "author": "Yoriscape",
-                "url": "https://i.imgur.com/zxGYbnx.png",
-                "yv8NP4V": ""
-            },
-            "Simple Black": {
-                "author": "yoriscape",
-                "url": "https://i.imgur.com/bDTScnT.png",
-                "XxGysmd": ""
-            },
-            "Wannabe Pink": {
-                "author": "yoriscape",
-                "url": "https://i.imgur.com/kXs7XQq.png",
-                "lQLXjTk": ""
-            },
-            "Why So Green!!!": {
-                "author": "yoriscape",
-                "url": "https://i.imgur.com/HgZz5dV.png",
-                "GJTIE3j": ""
-            },
-            "Ocean Blue": {
-                "author": "yoriscape",
-                "url": "https://i.imgur.com/CmWARyo.png",
-                "f9buQqE": ""
-            },
-        }
-    },
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",
@@ -136,6 +105,37 @@
             "Strange Ocean": {
                 "1": ""
             }
+        }
+    },
+    "Zephyrus_filled": {
+        "author": "yoriscape",
+        "featured": "zephyrus_wallpapers",
+        "wallpapers": {
+            "Simple White": {
+                "author": "Yoriscape",
+                "url": "https://i.imgur.com/zxGYbnx.png",
+                "yv8NP4V": ""
+            },
+            "Simple Black": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/bDTScnT.png",
+                "XxGysmd": ""
+            },
+            "Wannabe Pink": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/kXs7XQq.png",
+                "lQLXjTk": ""
+            },
+            "Why So Green!!!": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/HgZz5dV.png",
+                "GJTIE3j": ""
+            },
+            "Ocean Blue": {
+                "author": "yoriscape",
+                "url": "https://i.imgur.com/CmWARyo.png",
+                "f9buQqE": ""
+            },
         }
     },
     "Elementary": {
